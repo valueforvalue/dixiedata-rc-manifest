@@ -1,7 +1,7 @@
 {
   "version": "1.1.15-rc1",
   "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.15-rc1/DixieData-release-v1.1.15-rc1.zip",
-  "sha256": "REPLACE_WITH_SHA256_AFTER_BUILD",
+  "sha256": "e4134a1bb4882cb39036c180f4f44b840585c7bb7134e608d5c1375e59c4a44f",
   "release_notes": "1.1.15-rc1 — see DixieData CHANGELOG.md for the commits since the previous RC.",
   "published_at": "2026-07-26T07:33:31.5738973Z"
 }
