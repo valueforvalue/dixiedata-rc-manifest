@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4-rc1",
-  "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.4-rc1/DixieData-release-v1.1.4-rc1.zip",
-  "sha256": "REPLACE_WITH_SHA256_AFTER_BUILD",
-  "release_notes": "RC1 — first pre-release cut from dev. No production code changes vs v1.1.4 other than the bug fixes listed in the CHANGELOG between v1.1.4 and the RC1 commit. Installable via in-place update for any user who has set their `update_source_url` to this manifest URL.",
-  "published_at": "2026-07-26T00:00:00Z"
+  "version": "1.1.5-rc1",
+  "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.5-rc1/DixieData-release-v1.1.5-rc1.zip",
+  "sha256": "3887aeaa4acda07000c12752cefff101e3cdb13058f5a7fa1b68c5961ba3a4ee",
+  "release_notes": "1.1.5-rc1 — see DixieData CHANGELOG.md for the commits since the previous RC.",
+  "published_at": "2026-07-26T07:33:31.5738973Z"
 }
