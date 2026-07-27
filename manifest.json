@@ -1,7 +1,7 @@
 {
-  "version": "1.1.28-rc1",
-  "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.28-rc1/DixieData-release-v1.1.28-rc1.zip",
-  "sha256": "a5b5e79885561e14fe2c6261c5a9b9a4045299d660aed00601568ec88223f5e1",
-  "release_notes": "1.1.28-rc1 — see DixieData CHANGELOG.md for the commits since the previous RC.",
-  "published_at": "2026-07-26T07:33:31.5738973Z"
+  "version": "1.1.28-rc2",
+  "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.28-rc2/DixieData-release-v1.1.28-rc2.zip",
+  "sha256": "94903abfae41a4c5614b226f23fb6462e71c89cb91ce585834e85a047b11f517",
+  "release_notes": "1.1.28-rc2 \u2014 monochrome RC app icon; see DixieData CHANGELOG.md for the commits since the previous RC.",
+  "published_at": "2026-07-27T17:01:57.346868Z"
 }
