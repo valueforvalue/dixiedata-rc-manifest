@@ -1,7 +1,7 @@
 {
-  "version": "1.1.30-rc2",
-  "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.30-rc2/DixieData-release-v1.1.30-rc2.zip",
-  "sha256": "86f5c1803fe5b7b305824fea43b21c6ee054bac4fd7eead00815d97a3eded164",
-  "release_notes": "RC2 \u2014 fixes RC1 WebView profile crossover, Person Record save dispatch, migrated Source Record ordering, and Windows JPG export resource cleanup.",
-  "published_at": "2026-07-28T20:46:45.902949Z"
+  "version": "1.1.31-rc3",
+  "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.31-rc3/DixieData-release-v1.1.31-rc3.zip",
+  "sha256": "436e80008a1fda3dad5effaa02bc5cb10ba624027d9aaed4d12e2e320771e96f",
+  "release_notes": "RC3 — fixes RC1 WebView profile crossover, Person Record save dispatch, migrated Source Record ordering, and Windows JPG export resource cleanup. Rebuilt clean with icon resource regeneration.",
+  "published_at": "2026-07-28T21:15:36.583808Z"
 }
