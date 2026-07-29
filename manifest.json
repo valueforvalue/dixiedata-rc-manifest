@@ -1,7 +1,7 @@
 {
-  "version": "1.1.32-rc1",
-  "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.32-rc1/DixieData-release-v1.1.32-rc1.zip",
-  "sha256": "C8C81F5CCF65FA4107B6F8A211D01CF258524BFB8CE14E5E19E81D480DC19DD2",
-  "release_notes": "v1.1.32-rc1: Eliminated all data-method attributes. Fixed save + delete buttons in Wails desktop build. Update source URL defaulted to RC manifest.",
-  "published_at": "2026-07-29T00:15:00Z"
+  "version": "1.1.33-rc1",
+  "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.33-rc1/DixieData-release-v1.1.33-rc1.zip",
+  "sha256": "60B1E0DEB99F7AA5D962C7EC49BB3625724B56CF1E2CD3FAC766C620A8FECF1B",
+  "release_notes": "v1.1.33-rc1: Fixed save button empty-body bug (#689, #691). Save Changes no longer wipes Person Records.",
+  "published_at": "2026-07-29T02:52:00Z"
 }
