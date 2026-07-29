@@ -1,7 +1,7 @@
 {
   "version": "1.1.32-rc1",
   "asset_url": "https://github.com/valueforvalue/DixieData/releases/download/v1.1.32-rc1/DixieData-release-v1.1.32-rc1.zip",
-  "sha256": "AC24F178C3DF17120B51DDEBFB7E027C3AAABE0079FD221E960885B4E67304FE",
-  "release_notes": "1.1.32-rc1: Eliminated all data-method attributes. Fixed save + delete buttons in Wails desktop build.",
-  "published_at": "2026-07-28T23:45:00Z"
+  "sha256": "C8C81F5CCF65FA4107B6F8A211D01CF258524BFB8CE14E5E19E81D480DC19DD2",
+  "release_notes": "v1.1.32-rc1: Eliminated all data-method attributes. Fixed save + delete buttons in Wails desktop build. Update source URL defaulted to RC manifest.",
+  "published_at": "2026-07-29T00:15:00Z"
 }
